@@ -45,7 +45,7 @@ const LoginPasswordReset = () => {
         title="Resete a senha"
         description="Página para resetar a senha da sua conta."
       />
-      <h1 className="title">Reset a Senha</h1>
+      <h1 className="title">Resete a Senha</h1>
       <form onSubmit={handleSubmit}>
         <Input
           label="Nova senha"
